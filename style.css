@@ -205,6 +205,11 @@
     font-size: 50px;
     transform: translate(-50%, -50%);
   }
+@media screen and (max-width: 600px){
+    .image-box{
+        width: 300px;
+    }
+  }
   /*********** Below Header Zoom-in when hover End *********/
 
     /********** Fully Services part start ************/
